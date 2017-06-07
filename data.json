@@ -1,0 +1,156 @@
+{
+  "tasks": [
+  	[{"displayColor":"#DD6F6C",
+    "endTime":"2017-06-09",
+    "id":"203",
+    "projectId":"74",
+    "projectManagerId":"huxiaoyun",
+    "projectName":"test",
+    "startTime":"2017-06-01",
+    "starter":"zhaotianlun",
+    "taskDefKey":"doTask",
+    "taskId":"532539",
+    "undertakerId":"huxiaoyun",
+    "workType":"报价"},
+	{"displayColor":"#555",
+    "endTime":"2017-06-15",
+    "id":"203",
+    "projectId":"74",
+    "projectManagerId":"huxiaoyun",
+    "projectName":"test",
+    "startTime":"2017-06-07",
+    "starter":"zhaotianlun",
+    "taskDefKey":"doTask",
+    "taskId":"532539",
+    "undertakerId":"huxiaoyun",
+    "workType":"报价"},
+	{"displayColor":"yellow",
+    "endTime":"2017-06-24",
+    "id":"203",
+    "projectId":"74",
+    "projectManagerId":"huxiaoyun",
+    "projectName":"test",
+    "startTime":"2017-06-07",
+    "starter":"zhaotianlun",
+    "taskDefKey":"doTask",
+    "taskId":"532539",
+    "undertakerId":"huxiaoyun",
+    "workType":"报价"},
+	{"displayColor":"blue",
+    "endTime":"2017-06-18",
+    "id":"203",
+    "projectId":"74",
+    "projectManagerId":"huxiaoyun",
+    "projectName":"test",
+    "startTime":"2017-06-13",
+    "starter":"zhaotianlun",
+    "taskDefKey":"doTask",
+    "taskId":"532539",
+    "undertakerId":"huxiaoyun",
+    "workType":"报价"}],
+  	[{
+  		"displayColor":"yellow",
+      "workType": "沟通任务",
+  		"projectName": "皮蛋瘦肉粥",
+      "startTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	},
+	{
+  		"displayColor":"green",
+      "workType": "尽调任务",
+  		"projectName": "南瓜粥",
+      "startTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	},
+	{
+  		"displayColor":"gray",
+      "workType": "沟通任务",
+  		"projectName": "紫米粥",
+      "startTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	},
+	{
+  		"displayColor":"yellow",
+      "workType": "报价任务",
+  		"projectName": "小米",
+      "startTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	}],
+	[{
+  		"displayColor":"red",
+      "workType": "沟通任务",
+  		"projectName": "皮蛋瘦肉粥",
+      "startTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	},
+	{
+  		"displayColor":"blue",
+      "workType": "尽调任务",
+  		"projectName": "南瓜粥",
+      "startTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	},
+	{
+  		"displayColor":"yellow",
+      "workType": "沟通任务",
+  		"projectName": "紫米粥",
+      "startTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	},
+	{
+  		"displayColor":"pink",
+      "workType": "尽调任务",
+  		"projectName": "南瓜粥",
+      "startTimeTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	},
+	{
+  		"displayColor":"blue",
+      "workType": "沟通任务",
+  		"projectName": "紫米粥",
+      "startTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	},
+	{
+  		"displayColor":"black",
+      "workType": "报价任务",
+  		"projectName": "小米",
+      "startTime" : "2017-03-01",
+      "endTime": "2017-03-15"
+	}]
+  ],
+  "projects": [
+    {
+      "bianhao": "11",
+      "mingcheng": "a",
+      "leixing": "17",
+      "jingli": "zhang",
+      "start": "2017-05-17 13:13",
+      "end": "2017-06-17 13:13"
+    },
+    {
+      "bianhao": "2",
+      "mingcheng": "b",
+      "leixing": "13",
+      "jingli": "zhu",
+      "start": "2017-05-27 16:13",
+      "end": "2017-05-30 13:13"
+    },
+    {
+      "bianhao": "6",
+      "mingcheng": "fang",
+      "leixing": "5",
+      "jingli": "li",
+      "start": "2017-06-11 13:13",
+      "end": "2017-06-14 13:13"
+    },
+    {
+      "bianhao": "4",
+      "mingcheng": "gun",
+      "leixing": "2",
+      "jingli": "mo",
+      "start": "2017-05-24 13:13",
+      "end": "2017-06-08 13:13"
+    }
+  ]
+}
